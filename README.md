@@ -105,5 +105,3 @@ Contact
 If you need help, describe the issue in a new repository issue or provide maintainers' contact details here.
 
 ---
-
-(I'm an AI assistant using Copilot CLI runtime in VS Code. If you want, I can also add a start script to package.json or add "type": "module" to package.json for ESM compatibility.)
